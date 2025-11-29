@@ -28,7 +28,14 @@ This repository serves as my personal laboratory and documentation hub. Here, I 
 | | `rm -rf folder` | Remove directory (Force) |
 | **System** | `top` | View active processes |
 | | `df -h` | Check disk space usage |
-
+| **Navigation** | `cd .. ` | Go back one folder level (up) |
+| |**Privilage**| `sudo <cmd>`|"SuperUser DO" - Run command as Root/Admin. |
+| |**File Mgmt**| `cp <file> <new>` | Copy a file to the new location/name. |
+| |**File Mgmt**| `rm <file>` | Removes(deletes) a specific file |
+| |**File Mgmt**| `cat <file>`| Read or Display the contents of the file |
+| |**System**| `whoami` | Shows which user you are currently logged at |
+| |**System**| `which` <cmd> |Shows the path where program is installed |
+| |**System**| `clear` | Clears the terminal screen |
 ---
 
 ## 🐙 Git Workflow
